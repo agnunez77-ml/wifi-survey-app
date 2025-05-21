@@ -54,18 +54,4 @@ pip install -r requirements.txt
 python3 wifi_survey_app.py
 ```
 
-## Capturas de ejemplo
 
-Ver carpeta `/screenshots` o la sección de ejemplos visuales.
-
-## ¿Querés colaborar?
-
-1. Forkeá este repo
-2. Hacé tus mejoras
-3. Enviá un Pull Request
-
-También podés usar la pestaña "Issues" para reportar errores o proponer mejoras.
-
-## Licencia
-
-MIT - Libre para usar, modificar y distribuir.
