@@ -1,0 +1,1835 @@
+[
+  {
+    "x_m": 0.96,
+    "y_m": 0.91,
+    "redes": [
+      {
+        "SSID": "Innovacion",
+        "BSSID": "7c:95:f3:8d:de:40",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:20",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:81",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c9:0d:ee",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e9:0d:ae",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:ed:6a:6e",
+        "Se\u00f1al": 24
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:ed:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:e9:ee",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "08:ec:f5:81:1c:2e",
+        "Se\u00f1al": 72
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c1:8d:ce",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:2d",
+        "Se\u00f1al": 78
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:22",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:23",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:60",
+        "Se\u00f1al": 22
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "40:01:7a:a5:c1:0f",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:20",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e9:0d:af",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:6f",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:c1:8d:cf",
+        "Se\u00f1al": 14
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "34:62:88:c9:62:8f",
+        "Se\u00f1al": 29
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:ed:8f",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:e9:ef",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:21",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:2e",
+        "Se\u00f1al": 78
+      }
+    ]
+  },
+  {
+    "x_m": 1.19,
+    "y_m": 7.91,
+    "redes": [
+      {
+        "SSID": "Innovacion",
+        "BSSID": "7c:95:f3:8d:de:40",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:20",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:81",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c9:0d:ee",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e9:0d:ae",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:ed:6a:6e",
+        "Se\u00f1al": 24
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:ed:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:e9:ee",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "08:ec:f5:81:1c:2e",
+        "Se\u00f1al": 72
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c1:8d:ce",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:2d",
+        "Se\u00f1al": 78
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:22",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:23",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:60",
+        "Se\u00f1al": 22
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "40:01:7a:a5:c1:0f",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:20",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e9:0d:af",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:6f",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:c1:8d:cf",
+        "Se\u00f1al": 14
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "34:62:88:c9:62:8f",
+        "Se\u00f1al": 29
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:ed:8f",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:e9:ef",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:21",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:2e",
+        "Se\u00f1al": 78
+      }
+    ]
+  },
+  {
+    "x_m": 5.36,
+    "y_m": 10.27,
+    "redes": [
+      {
+        "SSID": "Innovacion",
+        "BSSID": "7c:95:f3:8d:de:40",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:20",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:81",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c9:0d:ee",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e9:0d:ae",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:ed:6a:6e",
+        "Se\u00f1al": 24
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:ed:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:e9:ee",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "08:ec:f5:81:1c:2e",
+        "Se\u00f1al": 72
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c1:8d:ce",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:2d",
+        "Se\u00f1al": 78
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:22",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:23",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:60",
+        "Se\u00f1al": 22
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "40:01:7a:a5:c1:0f",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:20",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e9:0d:af",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:6f",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:c1:8d:cf",
+        "Se\u00f1al": 14
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "34:62:88:c9:62:8f",
+        "Se\u00f1al": 29
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:ed:8f",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:e9:ef",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:21",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:2e",
+        "Se\u00f1al": 78
+      }
+    ]
+  },
+  {
+    "x_m": 6.09,
+    "y_m": 8.72,
+    "redes": [
+      {
+        "SSID": "Innovacion",
+        "BSSID": "7c:95:f3:8d:de:40",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:20",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:81",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c9:0d:ee",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e9:0d:ae",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:ed:6a:6e",
+        "Se\u00f1al": 24
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:ed:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:e9:ee",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "08:ec:f5:81:1c:2e",
+        "Se\u00f1al": 72
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c1:8d:ce",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:2d",
+        "Se\u00f1al": 78
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:22",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:23",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:60",
+        "Se\u00f1al": 22
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "40:01:7a:a5:c1:0f",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:20",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e9:0d:af",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:6f",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:c1:8d:cf",
+        "Se\u00f1al": 14
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "34:62:88:c9:62:8f",
+        "Se\u00f1al": 29
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:ed:8f",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:e9:ef",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:21",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:2e",
+        "Se\u00f1al": 78
+      }
+    ]
+  },
+  {
+    "x_m": 9.16,
+    "y_m": 8.68,
+    "redes": [
+      {
+        "SSID": "Innovacion",
+        "BSSID": "7c:95:f3:8d:de:40",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:20",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:81",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c9:0d:ee",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e9:0d:ae",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:ed:6a:6e",
+        "Se\u00f1al": 24
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:ed:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:e9:ee",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "08:ec:f5:81:1c:2e",
+        "Se\u00f1al": 72
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c1:8d:ce",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:2d",
+        "Se\u00f1al": 78
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:22",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:23",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:60",
+        "Se\u00f1al": 22
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "40:01:7a:a5:c1:0f",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:20",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e9:0d:af",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:6f",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:c1:8d:cf",
+        "Se\u00f1al": 14
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "34:62:88:c9:62:8f",
+        "Se\u00f1al": 29
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:ed:8f",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:e9:ef",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:21",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:2e",
+        "Se\u00f1al": 78
+      }
+    ]
+  },
+  {
+    "x_m": 9.22,
+    "y_m": 9.91,
+    "redes": [
+      {
+        "SSID": "Innovacion",
+        "BSSID": "7c:95:f3:8d:de:40",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:20",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:81",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c9:0d:ee",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e9:0d:ae",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:ed:6a:6e",
+        "Se\u00f1al": 24
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:ed:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:e9:ee",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "08:ec:f5:81:1c:2e",
+        "Se\u00f1al": 72
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c1:8d:ce",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:2d",
+        "Se\u00f1al": 78
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:22",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:23",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:60",
+        "Se\u00f1al": 22
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "40:01:7a:a5:c1:0f",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:20",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e9:0d:af",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:6f",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:c1:8d:cf",
+        "Se\u00f1al": 14
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "34:62:88:c9:62:8f",
+        "Se\u00f1al": 29
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:ed:8f",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:e9:ef",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:21",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:2e",
+        "Se\u00f1al": 78
+      }
+    ]
+  },
+  {
+    "x_m": 8.89,
+    "y_m": 5.87,
+    "redes": [
+      {
+        "SSID": "Innovacion",
+        "BSSID": "7c:95:f3:8d:de:40",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:20",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:81",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c9:0d:ee",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e9:0d:ae",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:ed:6a:6e",
+        "Se\u00f1al": 24
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:ed:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:e9:ee",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "08:ec:f5:81:1c:2e",
+        "Se\u00f1al": 72
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c1:8d:ce",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:2d",
+        "Se\u00f1al": 78
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:22",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:23",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:60",
+        "Se\u00f1al": 22
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "40:01:7a:a5:c1:0f",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:20",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e9:0d:af",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:6f",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:c1:8d:cf",
+        "Se\u00f1al": 14
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "34:62:88:c9:62:8f",
+        "Se\u00f1al": 29
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:ed:8f",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:e9:ef",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:21",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:2e",
+        "Se\u00f1al": 78
+      }
+    ]
+  },
+  {
+    "x_m": 6.65,
+    "y_m": 5.5,
+    "redes": [
+      {
+        "SSID": "Innovacion",
+        "BSSID": "7c:95:f3:8d:de:40",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:20",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:81",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c9:0d:ee",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e9:0d:ae",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:ed:6a:6e",
+        "Se\u00f1al": 24
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:ed:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:e9:ee",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "08:ec:f5:81:1c:2e",
+        "Se\u00f1al": 72
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c1:8d:ce",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:2d",
+        "Se\u00f1al": 78
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:22",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:23",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:60",
+        "Se\u00f1al": 22
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "40:01:7a:a5:c1:0f",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:20",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e9:0d:af",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:6f",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:c1:8d:cf",
+        "Se\u00f1al": 14
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "34:62:88:c9:62:8f",
+        "Se\u00f1al": 29
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:ed:8f",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:e9:ef",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:21",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:2e",
+        "Se\u00f1al": 78
+      }
+    ]
+  },
+  {
+    "x_m": 8.49,
+    "y_m": 2.36,
+    "redes": [
+      {
+        "SSID": "Innovacion",
+        "BSSID": "7c:95:f3:8d:de:40",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:20",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:81",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c9:0d:ee",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e9:0d:ae",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:ed:6a:6e",
+        "Se\u00f1al": 24
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:ed:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:e9:ee",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "08:ec:f5:81:1c:2e",
+        "Se\u00f1al": 72
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c1:8d:ce",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:2d",
+        "Se\u00f1al": 78
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:22",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:23",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:60",
+        "Se\u00f1al": 22
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "40:01:7a:a5:c1:0f",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:20",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e9:0d:af",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:6f",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:c1:8d:cf",
+        "Se\u00f1al": 14
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "34:62:88:c9:62:8f",
+        "Se\u00f1al": 29
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:ed:8f",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:e9:ef",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:21",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:2e",
+        "Se\u00f1al": 78
+      }
+    ]
+  },
+  {
+    "x_m": 6.56,
+    "y_m": 1.98,
+    "redes": [
+      {
+        "SSID": "Innovacion",
+        "BSSID": "7c:95:f3:8d:de:40",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:20",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:81",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c9:0d:ee",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e9:0d:ae",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:ed:6a:6e",
+        "Se\u00f1al": 24
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:ed:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:e9:ee",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "08:ec:f5:81:1c:2e",
+        "Se\u00f1al": 72
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c1:8d:ce",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:2d",
+        "Se\u00f1al": 78
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:22",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:23",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:60",
+        "Se\u00f1al": 22
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "40:01:7a:a5:c1:0f",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:20",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e9:0d:af",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:6f",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:c1:8d:cf",
+        "Se\u00f1al": 14
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "34:62:88:c9:62:8f",
+        "Se\u00f1al": 29
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:ed:8f",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:e9:ef",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:21",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:2e",
+        "Se\u00f1al": 78
+      }
+    ]
+  },
+  {
+    "x_m": 3.81,
+    "y_m": 1.81,
+    "redes": [
+      {
+        "SSID": "Innovacion",
+        "BSSID": "7c:95:f3:8d:de:40",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:20",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:81",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c9:0d:ee",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e9:0d:ae",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:ed:6a:6e",
+        "Se\u00f1al": 24
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:ed:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:e9:ee",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "08:ec:f5:81:1c:2e",
+        "Se\u00f1al": 72
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c1:8d:ce",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:2d",
+        "Se\u00f1al": 78
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:22",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:23",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:60",
+        "Se\u00f1al": 22
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "40:01:7a:a5:c1:0f",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:20",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e9:0d:af",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:6f",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:c1:8d:cf",
+        "Se\u00f1al": 14
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "34:62:88:c9:62:8f",
+        "Se\u00f1al": 29
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:ed:8f",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:e9:ef",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:21",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:2e",
+        "Se\u00f1al": 78
+      }
+    ]
+  },
+  {
+    "x_m": 4.25,
+    "y_m": 5.12,
+    "redes": [
+      {
+        "SSID": "Innovacion",
+        "BSSID": "7c:95:f3:8d:de:40",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:20",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:81",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c9:0d:ee",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e9:0d:ae",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:ed:6a:6e",
+        "Se\u00f1al": 24
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:ed:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:e9:ee",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "08:ec:f5:81:1c:2e",
+        "Se\u00f1al": 72
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c1:8d:ce",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:2d",
+        "Se\u00f1al": 78
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:22",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:23",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:60",
+        "Se\u00f1al": 22
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "40:01:7a:a5:c1:0f",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:20",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e9:0d:af",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:6f",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:c1:8d:cf",
+        "Se\u00f1al": 14
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "34:62:88:c9:62:8f",
+        "Se\u00f1al": 29
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:ed:8f",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:e9:ef",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:21",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:2e",
+        "Se\u00f1al": 78
+      }
+    ]
+  },
+  {
+    "x_m": 2.66,
+    "y_m": 4.89,
+    "redes": [
+      {
+        "SSID": "Innovacion",
+        "BSSID": "7c:95:f3:8d:de:40",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:20",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Innovacion",
+        "BSSID": "50:17:ff:04:3a:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:81",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c9:0d:ee",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e9:0d:ae",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:ed:6a:6e",
+        "Se\u00f1al": 24
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "34:62:88:c9:62:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:ed:8e",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:e8:e9:ee",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "08:ec:f5:81:1c:2e",
+        "Se\u00f1al": 72
+      },
+      {
+        "SSID": "Dispositivos Moviles",
+        "BSSID": "70:b3:17:c1:8d:ce",
+        "Se\u00f1al": 16
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:2d",
+        "Se\u00f1al": 78
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:22",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Wlan-fi",
+        "BSSID": "50:17:ff:04:3a:23",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:60",
+        "Se\u00f1al": 22
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "40:01:7a:a5:c1:0f",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:20",
+        "Se\u00f1al": 67
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e9:0d:af",
+        "Se\u00f1al": 18
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:ed:6a:6f",
+        "Se\u00f1al": 20
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "08:ec:f5:81:1c:2f",
+        "Se\u00f1al": 75
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:c1:8d:cf",
+        "Se\u00f1al": 14
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "34:62:88:c9:62:8f",
+        "Se\u00f1al": 29
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:ed:8f",
+        "Se\u00f1al": 31
+      },
+      {
+        "SSID": "Arsat",
+        "BSSID": "70:b3:17:e8:e9:ef",
+        "Se\u00f1al": 53
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:21",
+        "Se\u00f1al": 82
+      },
+      {
+        "SSID": "Soporte@arsat",
+        "BSSID": "50:17:ff:04:3a:2e",
+        "Se\u00f1al": 78
+      }
+    ]
+  }
+]
